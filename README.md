@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá👋
 
-<!--
-**gabrielrbas/gabrielrbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Gabriel Ribas!
+-🎓Estou cursando Engenharia de Computação na Pontifícia Universidade Católica do Paraná (PUCPR) desde 2019.
+-💻Estudando programação com foco no backend.
+-📍 Curitiba/PR
 
-Here are some ideas to get you started:
+### TECNOLOGIAS QUE CONHEÇO/ESTOU ESTUDANDO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Django
+- Python
+- MySQL
+
+### Minhas redes 👇🏼
+
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrbas/)](https://www.linkedin.com/in/gabrielrbas/)
