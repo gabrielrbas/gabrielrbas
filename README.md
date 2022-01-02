@@ -7,9 +7,13 @@
 
 ### TECNOLOGIAS QUE CONHEÇO/ESTOU ESTUDANDO
 
-- Django
+- HTML5
+- CSS3
+- JavaScript
+
+# Conhecimentos #
 - Python
-- MySQL
+- Mysql
 
 ### Minhas redes 👇🏼
 
