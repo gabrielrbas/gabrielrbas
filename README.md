@@ -2,7 +2,7 @@
 
 ## Meu nome é Gabriel Ribas!
 - 🎓Estou cursando Engenharia de Computação na Pontifícia Universidade Católica do Paraná (PUCPR) desde 2019.
-- 💻Estudando programação com foco no backend.
+- 💻Estudando programação com foco em desenvolvimento web.
 - 📍 Curitiba/PR
 
 ### TECNOLOGIAS QUE CONHEÇO/ESTOU ESTUDANDO
