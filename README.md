@@ -1,11 +1,3 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Gabriel Ribas</h1>
-
-- 🎓Estou cursando Engenharia de Computação na Pontifícia Universidade Católica do Paraná (PUCPR).
-
-- 💻 Estudando programação com foco em desenvolvimento web.
-
-- 🔭 Atualmente estou estagiando na Britânia Eletrodomésticos como desenvolvedor ERP TOTVS Datasul.
-
 - 📍  Curitiba/PR.
 
 - 🔥  Aprendendo ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
